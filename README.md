@@ -17,6 +17,23 @@ The objective is to identify factors that influence employee turnover and provid
 IBM HR Employee Attrition Dataset
 
 ## Analysis Performed
+## Visualizations
+
+### Employee Attrition
+
+![Employee Attrition](employee_attrition.jpeg)
+
+### Overtime Impact
+
+![Overtime Impact](overtime_impact.jpeg)
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.jpeg)
+
+### Job Role Attrition
+
+![Job Role Attrition](job_role_attrition.jpeg)
 - Attrition Distribution
 - Age Analysis
 - Salary Analysis
