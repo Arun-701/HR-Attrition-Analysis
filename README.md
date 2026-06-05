@@ -36,4 +36,4 @@ IBM HR Employee Attrition Dataset
 The project helps HR teams understand employee turnover patterns and supports workforce planning.
 
 ## Author
-Arun Kumar
+ArunKumar
